@@ -1,6 +1,6 @@
 "# University-DataBase" 
 
-Project for work with database students and teachers 
+Project for work with database students and teachers  
 Вариант 10
 Создать три класса: Студент, Преподаватель, Контроллер.
 В классе Студент реализовать поля: имя, фамилия, год рождения, зарплата(Стипендия), факультет, курс.
