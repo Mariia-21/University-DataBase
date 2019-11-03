@@ -1,10 +1,10 @@
-firstname=Ivan lastname=Ivanov birthday=01.02.2000 money=897.00 fucultet=SULA age=2
-firstname=Sergiy lastname=Petrov birthday=04.03.1965 money=6897.00 fucultet=RTSLA age=40
-firstname=Mariia lastname=Kusailo birthday=21.10.1993 money=1254.00 fucultet=RTSLA age=6
-firstname=Svitlana lastname=Dmytrenko birthday=03.05.1990 money=5254.87 fucultet=GIS age=3
-firstname=Kateryna lastname=Bruzova birthday=06.02.2001 money=791.00 fucultet=GIS age=2
-firstname=Dmytro lastname=Pisniy birthday=09.07.1984 money=7454.65 fucultet=RTSLA age=12
-firstname=Igor lastname=Burda birthday=04.09.1997 money=923.00 fucultet=GIS age=1
-firstname=Vitaliiy lastname=Prytula birthday=07.02.1996 money=754.00 fucultet=SULA age=1
-firstname=Oleksandr lastname=Pavlenko birthday=02.04.1973 money=8542.92 fucultet=GIS age=15
-firstname=Yana lastname=Shevchenko birthday=07.06.1993 money=3429.00 fucultet=RTSLA age=6
+id=2 firstname=Ivan lastname=Ivanov birthday=01.02.2000 money=897.00 fucultet=SULA age=2
+id=1 firstname=Sergiy lastname=Petrov birthday=04.03.1993 money=6897.00 fucultet=RTSLA age=40
+id=2 firstname=Mariia lastname=Kusailo birthday=21.10.1993 money=1254.00 fucultet=RTSLA age=6
+id=1 firstname=Svitlana lastname=Dmytrenko birthday=03.05.1990 money=5254.87 fucultet=GIS age=3
+id=2 firstname=Kateryna lastname=Bruzova birthday=06.02.2001 money=791.00 fucultet=GIS age=2
+id=1 firstname=Dmytro lastname=Pisniy birthday=09.07.1984 money=7454.65 fucultet=RTSLA age=12
+id=2 firstname=Igor lastname=Burda birthday=04.09.1997 money=923.00 fucultet=GIS age=1
+id=2 firstname=Vitaliiy lastname=Prytula birthday=07.02.1996 money=754.00 fucultet=SULA age=1
+id=1 firstname=Oleksandr lastname=Pavlenko birthday=02.04.1973 money=8542.92 fucultet=GIS age=15
+id=2 firstname=Yana lastname=Shevchenko birthday=07.06.1993 money=3429.00 fucultet=RTSLA age=6
